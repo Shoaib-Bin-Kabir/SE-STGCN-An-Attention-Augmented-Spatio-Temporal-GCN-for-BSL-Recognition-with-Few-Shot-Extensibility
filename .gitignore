@@ -1,0 +1,21 @@
+# Python and notebook runtime files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments and tooling
+.venv/
+venv/
+env/
+.env
+.vscode/
+
+# Common generated model and experiment outputs
+*.ckpt
+*.h5
+*.keras
+*.pth
+*.pt
+checkpoints/
+outputs/
+results/
