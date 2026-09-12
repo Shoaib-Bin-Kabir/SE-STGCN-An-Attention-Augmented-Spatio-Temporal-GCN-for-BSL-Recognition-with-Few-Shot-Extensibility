@@ -25,7 +25,6 @@ Diagrams, result tables, prediction examples, and supporting visual material:
 
 Additional project documentation and details.
 
-## Explained Workflow
 
 ### Google Drive Link
 
